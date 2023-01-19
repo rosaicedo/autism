@@ -1,4 +1,4 @@
-# autism
+# Autism
 https://www.kaggle.com/competitions/autismdiagnosis/data
 
 
